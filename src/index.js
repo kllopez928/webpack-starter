@@ -3,6 +3,6 @@ import './styles.css';
 
 
 
-const nombre = 'Fernando';
+const nombre = 'Kevin Lopez';
 
-saludar( nombre );
+saludar(nombre);
